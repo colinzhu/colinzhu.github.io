@@ -1,5 +1,9 @@
 # Rule Engine
-RULE = CONDITION + ACTION
+RULE = CONDITIONS + ACTION
+
+CONDITIONS = `Predicate<T>`
+
+ACTION = `Function<T,R>`
 
 ```mermaid
 mindmap
