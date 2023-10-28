@@ -18,3 +18,7 @@ mindmap
         action = Function#60;T,R#62;
     
 ```
+
+## Reference
+- [Lightweight External Business Rules](https://www.infoq.com/articles/java-external-rules-engine/)
+- [JSON query and transformation language](https://jsonata.org/)
